@@ -19,4 +19,4 @@ Un missile qui touche un avion, le détruit et la partie est terminée. L'avion 
 propre missile.
 
 ## Diagramme de classe du programme initial
-![Diagramme de classe du programme initial]()
+![Diagramme de classe du programme initial](https://github.com/ME-JAD/PDV-DogFight-Start/blob/master/model/image/classDiagram.png)
