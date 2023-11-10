@@ -57,5 +57,5 @@ class ViewTkinter(IView):
         self.__window.update()
 
     def __manageKeyboard(self, event: Event):
-        if event.keysym == "space":
+        if event.keysym == self.__model.getFromKey("keyPause"):
             self.__controller.performAction(Action.PAUSE)

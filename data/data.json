@@ -7,5 +7,5 @@
   "planeImage": "model/image/plane.png",
   "planeStartX": 50,
   "planeStartY": 50,
-  "keyPause": " "
+  "keyPause": "space"
 }

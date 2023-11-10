@@ -25,4 +25,4 @@ class Model(IModel):
         return (int(self.__data["planeStartX"]) + self.__step) % int(self.__data["width"])
 
     def getPlaneY(self):
-        return (int(self.__data["planeStartY"]) + self.__step) % int(self.__data["height"])
+        return (int(self.__data["planeStartY"]))
