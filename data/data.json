@@ -1,0 +1,11 @@
+{
+  "title": "Dog Fight",
+  "height": 500,
+  "width": 1500,
+  "background": "#C4FFFB",
+  "zoom": 1,
+  "planeImage": "model/image/plane.png",
+  "planeStartX": 50,
+  "planeStartY": 50,
+  "keyPause": " "
+}
