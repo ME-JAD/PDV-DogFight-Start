@@ -1,6 +1,6 @@
-#Dog Fight
+# Dog Fight
 
-##Description du jeu
+## Description du jeu
 Il s'agit de deux avions pilotés par deux joueurs qui s'affrontent dans le ciel.
 
 Le monde est circulaire, c'est-à-dire que si l'on sort d'un côté, on réapparait de l'autre côté.
@@ -18,5 +18,5 @@ lorsqu'il parcourt une distance égale à 2 fois la hauteur ou largeur du monde 
 Un missile qui touche un avion, le détruit et la partie est terminée. L'avion d'un joueur peut être détruit par son
 propre missile.
 
-##Diagramme de classe du programme initial
+## Diagramme de classe du programme initial
 ![Diagramme de classe du programme initial]()
